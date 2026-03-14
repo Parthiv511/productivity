@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parthiv511/productivity/tree/master/0001-two-sum) |
+| [3861-minimum-capacity-box](https://github.com/Parthiv511/productivity/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
