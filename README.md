@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Parthiv511/productivity/tree/master/3861-minimum-capacity-box) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Parthiv511/productivity/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
 | ------- |
