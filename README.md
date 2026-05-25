@@ -32,15 +32,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [3894-traffic-signal-color](https://github.com/Parthiv511/productivity/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Parthiv511/productivity/tree/master/3908-valid-digit-number) |
 ## String
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/Parthiv511/productivity/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/Parthiv511/productivity/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
 | ------- |
