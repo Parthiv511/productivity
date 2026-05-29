@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Parthiv511/productivity/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [3833-count-dominant-indices](https://github.com/Parthiv511/productivity/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Parthiv511/productivity/tree/master/3861-minimum-capacity-box) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Parthiv511/productivity/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Parthiv511/productivity/tree/master/3898-find-the-degree-of-each-vertex) |
+## Enumeration
+|  |
+| ------- |
+| [3833-count-dominant-indices](https://github.com/Parthiv511/productivity/tree/master/3833-count-dominant-indices) |
 <!---LeetCode Topics End-->
