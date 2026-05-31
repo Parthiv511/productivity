@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parthiv511/productivity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Parthiv511/productivity/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Parthiv511/productivity/tree/master/3884-first-matching-character-from-both-ends) |
 | [3889-mirror-frequency-distance](https://github.com/Parthiv511/productivity/tree/master/3889-mirror-frequency-distance) |
 | [3894-traffic-signal-color](https://github.com/Parthiv511/productivity/tree/master/3894-traffic-signal-color) |
 ## Simulation
