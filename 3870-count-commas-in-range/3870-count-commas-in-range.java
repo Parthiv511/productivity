@@ -9,7 +9,7 @@ class Solution {
 
             long count = Math.min((long)n, end) - start + 1;
 
-            ans += (int)(count * commas);
+            ans += (int)count;
 
             start *= 1000;
             commas++;
