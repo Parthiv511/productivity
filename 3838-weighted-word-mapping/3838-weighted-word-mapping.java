@@ -1,24 +1,23 @@
 class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
-        StringBuilder parth = new StringBuilder();
 
-        for (String wdf : words) {
-            int twfs = 0;
+        String ans = "";
 
-        
-            for (char chkl : wdf.toCharArray()) {
-                twfs += weights[chkl - 'a'];
+        for (String word : words) {
+
+            int sum = 0;
+
+            for (char c : word.toCharArray()) {
+                sum += weights[c - 'a'];
             }
 
-      
-            int modfg = twfs % 26;
+            int mod = sum % 26;
 
-            
-            char mcfs = (char) ('z' - modfg);
+            char ch = (char) ('z' - mod);
 
-            parth.append(mcfs);
+            ans += ch;
         }
 
-        return parth.toString();
+        return ans;
     }
 }
