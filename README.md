@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
 | [3833-count-dominant-indices](https://github.com/Parthiv511/productivity/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Parthiv511/productivity/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Parthiv511/productivity/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parthiv511/productivity/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Parthiv511/productivity/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parthiv511/productivity/tree/master/0001-two-sum) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Parthiv511/productivity/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/Parthiv511/productivity/tree/master/3889-mirror-frequency-distance) |
 ## Two Pointers
 |  |
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Parthiv511/productivity/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/Parthiv511/productivity/tree/master/3889-mirror-frequency-distance) |
 <!---LeetCode Topics End-->
