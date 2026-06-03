@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parthiv511/productivity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Parthiv511/productivity/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/Parthiv511/productivity/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Parthiv511/productivity/tree/master/3884-first-matching-character-from-both-ends) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Parthiv511/productivity/tree/master/3847-find-the-score-difference-in-a-game) |
