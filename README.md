@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3827-count-monobit-integers](https://github.com/Parthiv511/productivity/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/Parthiv511/productivity/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Parthiv511/productivity/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Counting
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/Parthiv511/productivity/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
