@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Parthiv511/productivity/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Parthiv511/productivity/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3833-count-dominant-indices](https://github.com/Parthiv511/productivity/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
