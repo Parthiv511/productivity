@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Parthiv511/productivity/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3809-best-reachable-tower](https://github.com/Parthiv511/productivity/tree/master/3809-best-reachable-tower) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Parthiv511/productivity/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3833-count-dominant-indices](https://github.com/Parthiv511/productivity/tree/master/3833-count-dominant-indices) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parthiv511/productivity/tree/master/0001-two-sum) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Parthiv511/productivity/tree/master/3852-smallest-pair-with-different-frequencies) |
