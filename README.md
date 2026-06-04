@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parthiv511/productivity/tree/master/0001-two-sum) |
+| [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Parthiv511/productivity/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/Parthiv511/productivity/tree/master/3889-mirror-frequency-distance) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/Parthiv511/productivity/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Parthiv511/productivity/tree/master/3838-weighted-word-mapping) |
