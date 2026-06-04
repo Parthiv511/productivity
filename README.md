@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Parthiv511/productivity/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Parthiv511/productivity/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parthiv511/productivity/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Parthiv511/productivity/tree/master/3894-traffic-signal-color) |
