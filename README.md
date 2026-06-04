@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parthiv511/productivity/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Parthiv511/productivity/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Parthiv511/productivity/tree/master/3870-count-commas-in-range) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
 | [3794-reverse-string-prefix](https://github.com/Parthiv511/productivity/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Parthiv511/productivity/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
