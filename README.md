@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Parthiv511/productivity/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Parthiv511/productivity/tree/master/0507-perfect-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Parthiv511/productivity/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Parthiv511/productivity/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parthiv511/productivity/tree/master/0011-container-with-most-water) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
