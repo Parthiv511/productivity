@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Parthiv511/productivity/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Parthiv511/productivity/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Parthiv511/productivity/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Parthiv511/productivity/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Parthiv511/productivity/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parthiv511/productivity/tree/master/3875-construct-uniform-parity-array-i) |
