@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Parthiv511/productivity/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Parthiv511/productivity/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3809-best-reachable-tower](https://github.com/Parthiv511/productivity/tree/master/3809-best-reachable-tower) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Parthiv511/productivity/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Parthiv511/productivity/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/Parthiv511/productivity/tree/master/0866-prime-palindrome) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Parthiv511/productivity/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Parthiv511/productivity/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Parthiv511/productivity/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Parthiv511/productivity/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -170,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Parthiv511/productivity/tree/master/0866-prime-palindrome) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Parthiv511/productivity/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
