@@ -2,7 +2,7 @@ class Solution {
 
     public int primePalindrome(int n) {
 
-        if (8 <= n && n <= 11) {
+        if (n>=8 && n <= 11) {
             return 11;
         }
 
