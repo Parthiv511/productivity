@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Parthiv511/productivity/tree/master/0507-perfect-number) |
+| [0866-prime-palindrome](https://github.com/Parthiv511/productivity/tree/master/0866-prime-palindrome) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Parthiv511/productivity/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Parthiv511/productivity/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Parthiv511/productivity/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Parthiv511/productivity/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
