@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Parthiv511/productivity/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Parthiv511/productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Parthiv511/productivity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parthiv511/productivity/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Parthiv511/productivity/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Parthiv511/productivity/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parthiv511/productivity/tree/master/0018-4sum) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Parthiv511/productivity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
