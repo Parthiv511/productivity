@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parthiv511/productivity/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Parthiv511/productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Parthiv511/productivity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parthiv511/productivity/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parthiv511/productivity/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Parthiv511/productivity/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Parthiv511/productivity/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parthiv511/productivity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3794-reverse-string-prefix](https://github.com/Parthiv511/productivity/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Parthiv511/productivity/tree/master/3884-first-matching-character-from-both-ends) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parthiv511/productivity/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parthiv511/productivity/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Parthiv511/productivity/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parthiv511/productivity/tree/master/0018-4sum) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Parthiv511/productivity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
