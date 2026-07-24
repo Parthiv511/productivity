@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Parthiv511/productivity/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Parthiv511/productivity/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Parthiv511/productivity/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Parthiv511/productivity/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Parthiv511/productivity/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
