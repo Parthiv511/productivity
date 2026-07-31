@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parthiv511/productivity/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parthiv511/productivity/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1109-corporate-flight-bookings](https://github.com/Parthiv511/productivity/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Parthiv511/productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Parthiv511/productivity/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/Parthiv511/productivity/tree/master/1109-corporate-flight-bookings) |
 | [3903-smallest-stable-index-i](https://github.com/Parthiv511/productivity/tree/master/3903-smallest-stable-index-i) |
 ## Graph Theory
 |  |
