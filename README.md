@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parthiv511/productivity/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parthiv511/productivity/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Parthiv511/productivity/tree/master/0877-stone-game) |
 | [1109-corporate-flight-bookings](https://github.com/Parthiv511/productivity/tree/master/1109-corporate-flight-bookings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Parthiv511/productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Parthiv511/productivity/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/Parthiv511/productivity/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/Parthiv511/productivity/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Parthiv511/productivity/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parthiv511/productivity/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Parthiv511/productivity/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parthiv511/productivity/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/Parthiv511/productivity/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Parthiv511/productivity/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
