@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Parthiv511/productivity/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parthiv511/productivity/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/Parthiv511/productivity/tree/master/0228-summary-ranges) |
+| [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parthiv511/productivity/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Parthiv511/productivity/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Parthiv511/productivity/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3813-vowel-consonant-score](https://github.com/Parthiv511/productivity/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parthiv511/productivity/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |
