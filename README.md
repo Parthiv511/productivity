@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Parthiv511/productivity/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Parthiv511/productivity/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Parthiv511/productivity/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/Parthiv511/productivity/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Parthiv511/productivity/tree/master/0877-stone-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Parthiv511/productivity/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Parthiv511/productivity/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/Parthiv511/productivity/tree/master/0412-fizz-buzz) |
 | [3794-reverse-string-prefix](https://github.com/Parthiv511/productivity/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Parthiv511/productivity/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Parthiv511/productivity/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Parthiv511/productivity/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3813-vowel-consonant-score](https://github.com/Parthiv511/productivity/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
