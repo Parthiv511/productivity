@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Parthiv511/productivity/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Parthiv511/productivity/tree/master/0118-pascals-triangle) |
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parthiv511/productivity/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parthiv511/productivity/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/Parthiv511/productivity/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/Parthiv511/productivity/tree/master/0877-stone-game) |
 ## Stack
 |  |
