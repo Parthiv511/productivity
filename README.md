@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parthiv511/productivity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Parthiv511/productivity/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Parthiv511/productivity/tree/master/0345-reverse-vowels-of-a-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3794-reverse-string-prefix](https://github.com/Parthiv511/productivity/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Parthiv511/productivity/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Parthiv511/productivity/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Parthiv511/productivity/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Parthiv511/productivity/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Parthiv511/productivity/tree/master/0412-fizz-buzz) |
 | [3794-reverse-string-prefix](https://github.com/Parthiv511/productivity/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Parthiv511/productivity/tree/master/3798-largest-even-number) |
