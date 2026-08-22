@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Parthiv511/productivity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Parthiv511/productivity/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parthiv511/productivity/tree/master/0119-pascals-triangle-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Parthiv511/productivity/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Parthiv511/productivity/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Parthiv511/productivity/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Parthiv511/productivity/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/Parthiv511/productivity/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Parthiv511/productivity/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parthiv511/productivity/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Parthiv511/productivity/tree/master/0209-minimum-size-subarray-sum) |
 | [1109-corporate-flight-bookings](https://github.com/Parthiv511/productivity/tree/master/1109-corporate-flight-bookings) |
 | [3903-smallest-stable-index-i](https://github.com/Parthiv511/productivity/tree/master/3903-smallest-stable-index-i) |
 ## Graph Theory
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parthiv511/productivity/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Parthiv511/productivity/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
