@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parthiv511/productivity/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Parthiv511/productivity/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Parthiv511/productivity/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Parthiv511/productivity/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parthiv511/productivity/tree/master/0119-pascals-triangle-ii) |
 | [0228-summary-ranges](https://github.com/Parthiv511/productivity/tree/master/0228-summary-ranges) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Parthiv511/productivity/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parthiv511/productivity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parthiv511/productivity/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Parthiv511/productivity/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Parthiv511/productivity/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Parthiv511/productivity/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Parthiv511/productivity/tree/master/0392-is-subsequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Parthiv511/productivity/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Parthiv511/productivity/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parthiv511/productivity/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Parthiv511/productivity/tree/master/0075-sort-colors) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parthiv511/productivity/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -249,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Parthiv511/productivity/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parthiv511/productivity/tree/master/0374-guess-number-higher-or-lower) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Parthiv511/productivity/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Parthiv511/productivity/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
