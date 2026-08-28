@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Parthiv511/productivity/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parthiv511/productivity/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parthiv511/productivity/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Parthiv511/productivity/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Parthiv511/productivity/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parthiv511/productivity/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Parthiv511/productivity/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/Parthiv511/productivity/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parthiv511/productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parthiv511/productivity/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parthiv511/productivity/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Parthiv511/productivity/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parthiv511/productivity/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
