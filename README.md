@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Parthiv511/productivity/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Parthiv511/productivity/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Parthiv511/productivity/tree/master/0228-summary-ranges) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parthiv511/productivity/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parthiv511/productivity/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Parthiv511/productivity/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parthiv511/productivity/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parthiv511/productivity/tree/master/0594-longest-harmonious-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Parthiv511/productivity/tree/master/0594-longest-harmonious-subsequence) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Parthiv511/productivity/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/Parthiv511/productivity/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Parthiv511/productivity/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Parthiv511/productivity/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Parthiv511/productivity/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parthiv511/productivity/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parthiv511/productivity/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Parthiv511/productivity/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Parthiv511/productivity/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parthiv511/productivity/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Parthiv511/productivity/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
 |  |
 | ------- |
