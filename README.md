@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Parthiv511/productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Parthiv511/productivity/tree/master/0594-longest-harmonious-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parthiv511/productivity/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Parthiv511/productivity/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3803-count-residue-prefixes](https://github.com/Parthiv511/productivity/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/Parthiv511/productivity/tree/master/3842-toggle-light-bulbs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Parthiv511/productivity/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parthiv511/productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Parthiv511/productivity/tree/master/0434-number-of-segments-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parthiv511/productivity/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Parthiv511/productivity/tree/master/1927-sum-game) |
 | [3794-reverse-string-prefix](https://github.com/Parthiv511/productivity/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Parthiv511/productivity/tree/master/3798-largest-even-number) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Parthiv511/productivity/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parthiv511/productivity/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Parthiv511/productivity/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3889-mirror-frequency-distance](https://github.com/Parthiv511/productivity/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Parthiv511/productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Parthiv511/productivity/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Parthiv511/productivity/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parthiv511/productivity/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
