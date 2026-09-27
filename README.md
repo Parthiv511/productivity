@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Parthiv511/productivity/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parthiv511/productivity/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parthiv511/productivity/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Parthiv511/productivity/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Parthiv511/productivity/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Parthiv511/productivity/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Parthiv511/productivity/tree/master/0292-nim-game) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parthiv511/productivity/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Parthiv511/productivity/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Parthiv511/productivity/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Parthiv511/productivity/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parthiv511/productivity/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Parthiv511/productivity/tree/master/0392-is-subsequence) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parthiv511/productivity/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Parthiv511/productivity/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
