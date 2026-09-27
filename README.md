@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Parthiv511/productivity/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Parthiv511/productivity/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Parthiv511/productivity/tree/master/0877-stone-game) |
+| [0935-knight-dialer](https://github.com/Parthiv511/productivity/tree/master/0935-knight-dialer) |
 ## Stack
 |  |
 | ------- |
