@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Parthiv511/productivity/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Parthiv511/productivity/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Parthiv511/productivity/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Parthiv511/productivity/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parthiv511/productivity/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parthiv511/productivity/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3794-reverse-string-prefix](https://github.com/Parthiv511/productivity/tree/master/3794-reverse-string-prefix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Parthiv511/productivity/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parthiv511/productivity/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Parthiv511/productivity/tree/master/0434-number-of-segments-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/Parthiv511/productivity/tree/master/0844-backspace-string-compare) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Parthiv511/productivity/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Parthiv511/productivity/tree/master/1927-sum-game) |
 | [3794-reverse-string-prefix](https://github.com/Parthiv511/productivity/tree/master/3794-reverse-string-prefix) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parthiv511/productivity/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Parthiv511/productivity/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Parthiv511/productivity/tree/master/0844-backspace-string-compare) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Parthiv511/productivity/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3813-vowel-consonant-score](https://github.com/Parthiv511/productivity/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Parthiv511/productivity/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parthiv511/productivity/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Parthiv511/productivity/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
