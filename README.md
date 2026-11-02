@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Parthiv511/productivity/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Parthiv511/productivity/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Parthiv511/productivity/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Parthiv511/productivity/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Parthiv511/productivity/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parthiv511/productivity/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parthiv511/productivity/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Parthiv511/productivity/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Parthiv511/productivity/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Parthiv511/productivity/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Parthiv511/productivity/tree/master/0102-binary-tree-level-order-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Parthiv511/productivity/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
